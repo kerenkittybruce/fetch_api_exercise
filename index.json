@@ -1,0 +1,26 @@
+[
+    {
+      "car1": {
+        "make": "BMW",
+        "model": "M3 E30",
+        "year": 1986,
+        "transmission": "Manual"
+      }
+    },
+    {
+      "car2": {
+        "make": "Mercedes-AMG",
+        "model": "G63",
+        "year": 2022,
+        "transmission": "Triptronic"
+      }
+    },
+    {
+      "car3": {
+        "make": "Mclaren",
+        "model": "12 C Spider",
+        "year": 2017,
+        "transmission": "Automatic"
+      }
+    }
+  ]
